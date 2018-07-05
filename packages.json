@@ -13,6 +13,27 @@
     "repo": "https://github.com/VisualSolutions/purescript-mvision.git",
     "version": "v0.1.5"
   },
+  "purescript-colorpicker-halogen": {
+    "dependencies": [
+      "colors",
+      "halogen",
+      "halogen-css",
+      "dom-classy",
+      "dom"
+    ],
+    "repo": "https://github.com/vladciobanu/purescript-colorpicker-halogen.git",
+    "version": "v0.1.2"
+  },
+  "purescript-number-input-halogen": {
+    "dependencies": [
+      "enums",
+      "halogen",
+      "halogen-css",
+      "numbers",
+      "unsafe-reference"
+    ],
+    "repo": "git://github.com/safareli/purescript-number-input-halogen.git#initial-props"
+  },
   "aff": {
     "dependencies": [
       "console",
