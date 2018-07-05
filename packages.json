@@ -1,4 +1,18 @@
 {
+  "purescript-mvision": {
+    "dependencies": [
+      "affjax",
+      "argonaut",
+      "arrays",
+      "halogen",
+      "maybe",
+      "prelude",
+      "run",
+      "variant"
+    ],
+    "repo": "https://github.com/VisualSolutions/purescript-mvision.git",
+    "version": "v0.1.5"
+  },
   "aff": {
     "dependencies": [
       "console",
