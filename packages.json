@@ -33,7 +33,8 @@
       "numbers",
       "unsafe-reference"
     ],
-    "repo": "git://github.com/safareli/purescript-number-input-halogen.git#initial-props"
+    "repo": "git://github.com/safareli/purescript-number-input-halogen.git#initial-props",
+    "version": ""
   },
   "aff": {
     "dependencies": [
