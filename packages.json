@@ -29,7 +29,7 @@
       "variant"
     ],
     "repo": "https://github.com/VisualSolutions/purescript-alerter.git",
-    "version": "master"
+    "version": "feature/psc-package-playground"
   },
   "purescript-mvision": {
     "dependencies": [
