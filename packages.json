@@ -19,7 +19,8 @@
       "halogen",
       "halogen-css",
       "dom-classy",
-      "dom"
+      "dom",
+      "purescript-number-input-halogen"
     ],
     "repo": "https://github.com/vladciobanu/purescript-colorpicker-halogen.git",
     "version": "v0.1.2"
