@@ -1,4 +1,49 @@
 {
+  "purescript-messages": {
+    "dependencies": [
+      "behaviors",
+      "free",
+      "halogen",
+      "js-timers",
+      "purescript-mvision",
+      "now",
+      "prelude",
+      "run",
+      "variant"
+    ],
+    "repo": "https://github.com/VisualSolutions/purescript-messages.git",
+    "version": "master"
+  },
+  "purescript-alerter": {
+    "dependencies": [
+      "affjax",
+      "argonaut",
+      "behaviors",
+      "halogen",
+      "js-timers",
+      "maybe",
+      "purescript-mvision",
+      "now",
+      "prelude",
+      "variant"
+    ],
+    "repo": "https://github.com/VisualSolutions/purescript-alerter.git",
+    "version": "master"
+  },
+  "purescript-mvision": {
+    "dependencies": [
+      "affjax",
+      "argonaut",
+      "arrays",
+      "halogen",
+      "maybe",
+      "prelude",
+      "run",
+      "variant"
+    ],
+    "repo": "https://github.com/VisualSolutions/purescript-mvision.git",
+    "version": "master"
+  },
   "aff": {
     "dependencies": [
       "datetime",
