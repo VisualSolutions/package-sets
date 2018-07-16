@@ -11,7 +11,7 @@
       "run",
       "variant"
     ],
-    "repo": "https://github.com/VisualSolutions/purescript-messages.git",
+    "repo": "git@github.com:VisualSolutions/purescript-messages.git",
     "version": "master"
   },
   "purescript-alerter": {
@@ -28,7 +28,7 @@
       "prelude",
       "variant"
     ],
-    "repo": "https://github.com/VisualSolutions/purescript-alerter.git",
+    "repo": "git@github.com:VisualSolutions/purescript-messages.git",
     "version": "master"
   },
   "purescript-mvision": {
@@ -42,7 +42,7 @@
       "run",
       "variant"
     ],
-    "repo": "https://github.com/VisualSolutions/purescript-mvision.git",
+    "repo": "git@github.com:VisualSolutions/purescript-mvision.git",
     "version": "master"
   },
   "aff": {
