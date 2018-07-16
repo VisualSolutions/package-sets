@@ -28,7 +28,7 @@
       "prelude",
       "variant"
     ],
-    "repo": "git@github.com:VisualSolutions/purescript-messages.git",
+    "repo": "git@github.com:VisualSolutions/purescript-alerter.git",
     "version": "master"
   },
   "purescript-mvision": {
